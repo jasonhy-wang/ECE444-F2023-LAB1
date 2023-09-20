@@ -16,7 +16,9 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 4 ##
 
-<img width="779" alt="Screen Shot 2023-09-20 at 5 09 35 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/77962abc-5f7d-4fc5-ae7e-7541b70ea928">
-<img width="993" alt="Screen Shot 2023-09-20 at 5 03 30 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/3c7318de-2d5a-4209-a9c5-3d3d5f3696c4">
-<img width="944" alt="Screen Shot 2023-09-20 at 5 03 01 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/e9cad698-1605-475f-809a-069e6080f5bc">
-<img width="787" alt="Screen Shot 2023-09-20 at 5 02 17 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/69ea81e2-0387-4454-8a38-5668ea34238f">
+<img width="787" alt="Screen Shot 2023-09-20 at 5 02 17 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/db97f37e-af33-40b3-bdd5-4f914be344ce">
+<img width="944" alt="Screen Shot 2023-09-20 at 5 03 01 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/a9cd71a5-214e-486f-8e7f-d9bdef593ac0">
+<img width="993" alt="Screen Shot 2023-09-20 at 5 03 30 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/f6347723-f408-419f-a2b0-f31c5b6b8413">
+<img width="779" alt="Screen Shot 2023-09-20 at 5 09 35 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-LAB1/assets/38818672/1c5cca58-87e4-4f2b-9c4b-2e409f3c4da2">
+
+
