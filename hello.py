@@ -35,6 +35,7 @@ def index():
     if form.validate_on_submit():
         old_name = session.get('name')
         old_email = session.get('email')
+
         if old_name is not None and old_name != form.name.data:
             flash('Looks like you have changed your name!')
 
@@ -42,7 +43,9 @@ def index():
             flash('Looks like you have changed your email!')
         if form.email.data.endswith("utoronto.ca"):
             session['email'] = form.email.data  
-
+            session['is_uoft_email'] = True 
+        else:
+            session['is_uoft_email'] = False 
         session['name'] = form.name.data
         return redirect(url_for('index'))
-    return render_template('index.html', form=form, name=session.get('name'), email=session.get('email'))
+    return render_template('index.html', form=form, name=session.get('name'), email=session.get('email'), is_uoft_email=session.get('is_uoft_email'))
