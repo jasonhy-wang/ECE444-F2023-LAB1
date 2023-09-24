@@ -10,8 +10,6 @@
         <h1>Your email is: {{ email }}</h1>
     {% elif email and not is_uoft_email %}
         <h1>Please use a UofT email</h1>
-    {% else %}
-        <h1>Email not set</h1>
     {% endif %}
 </div>
 {{ wtf.quick_form(form) }}
